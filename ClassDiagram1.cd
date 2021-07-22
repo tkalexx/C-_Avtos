@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Avtoservis2.FormAuth">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Avtoservis2.FormAuth.Role" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FormAuth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAEAACAAABAEAACACIACEAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>FormAuth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Avtoservis2.FormFull">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAEAAQIKqGCgJAmAICYEICiBMg8gkYIIHAOgKAsDgA=</HashCode>
+      <FileName>FormFull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Avtoservis2.FormLimited">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAKAAQBAQAgOCAICChMQ4ggYIEGAIwACpBAA=</HashCode>
+      <FileName>FormLimited.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Avtoservis2.FormPartial">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACBEAAAAIKCAiBAAAACAAIACAMy7AgQIwDAPACAJRAA=</HashCode>
+      <FileName>FormPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
